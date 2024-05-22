@@ -8,6 +8,9 @@ Here are the steps for installing a custom firmware for RPCS3. *Remember that th
 
 Once all of these steps are finished, you can start installing whatever you'd like.
 
+If everything has been done correctly, it will look like this once you boot.
+![image](https://github.com/EternalModz/RPCS3-Modding/assets/86510009/3ac32818-cc95-4af4-8499-92b95b1a2064)
+
 ---
 
 &copy; 2024 EternalModz. All rights reserved.
